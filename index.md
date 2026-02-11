@@ -1,4 +1,5 @@
-# Privacy Policy – TTAP-Vanco
+# Privacy Policy – PlasmaBind – Vancomycin PK Simulator
+
 
 Last updated: February 2026
 
