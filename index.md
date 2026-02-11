@@ -80,9 +80,12 @@ PlasmaBind Inc. may update this privacy policy periodically. Updates will be pos
 
 ---
 
-## Contact Information
 
-If you have questions regarding this privacy policy, please contact:
+## Support & Contact
 
-PlasmaBind Inc.  
-Email: plasmabind@proton.me
+If you have questions, technical issues, or feedback related to **PlasmaBind – Vancomycin PK Simulator**, please contact:
+
+**Email:** plasmabind.inc@gmail.com
+
+Support requests are reviewed on a best-effort basis.
+
