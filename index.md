@@ -1,17 +1,22 @@
 # Privacy Policy – PlasmaBind – Vancomycin PK Simulator
 
-
 Last updated: February 2026
 
-TTAP-Vanco is an educational pharmacokinetic simulation application developed by PlasmaBind Inc. The application is designed for research and educational visualization purposes only and does not provide medical diagnosis, treatment recommendations, or clinical decision support.
+PlasmaBind – Vancomycin PK Simulator is an educational pharmacokinetic (PK) simulation application developed by PlasmaBind Inc.  
+The application is intended for research, education, and visualization purposes only and **does not provide medical diagnosis, treatment recommendations, or clinical decision support**.
 
 ---
 
 ## Data Collection
 
-TTAP-Vanco does NOT collect, store, transmit, or share personal health information (PHI), patient identifiers, or user personal data.
+PlasmaBind – Vancomycin PK Simulator does **NOT** collect, store, transmit, or share:
 
-All calculations are performed locally on the user’s device.
+- Personal health information (PHI)
+- Patient identifiers
+- User personal data
+- Device identifiers
+
+All calculations and simulations are performed **locally on the user’s device**.
 
 No information entered into the application is transmitted to external servers.
 
@@ -19,74 +24,82 @@ No information entered into the application is transmitted to external servers.
 
 ## Data Storage
 
-Information entered into TTAP-Vanco is stored only temporarily in device memory during use of the application.
+Information entered into the application is stored **temporarily in device memory only** during active use of the app.
 
-Data is deleted when the application is closed or refreshed.
+- No data is saved to cloud services
+- No user accounts are created
+- No persistent databases are used
 
-TTAP-Vanco does not maintain cloud storage, user accounts, or persistent databases.
+All data is cleared when the application is closed or refreshed.
 
 ---
 
 ## Analytics and Tracking
 
-TTAP-Vanco does NOT use:
+PlasmaBind – Vancomycin PK Simulator does **NOT** use:
 
-• Analytics services  
-• Tracking technologies  
-• Advertising networks  
-• Third-party data collection tools  
-
----
-
-## Clipboard Usage
-
-TTAP-Vanco includes a feature allowing users to copy simulation summaries to the device clipboard.
-
-Users are responsible for ensuring copied data does not include patient identifiers or protected health information.
+- Analytics services
+- Tracking technologies
+- Advertising networks
+- Third-party data collection tools
 
 ---
 
 ## Permissions
 
-TTAP-Vanco does NOT request or access:
+The application does **NOT** request access to:
 
-• Location services  
-• Contacts  
-• Camera  
-• Microphone  
-• Background tracking services  
-• Device identifiers  
+- Location services
+- Contacts
+- Camera
+- Microphone
+- Background tracking services
+
+---
+
+## Clipboard Usage
+
+The application may allow users to copy simulation summaries to the device clipboard.
+
+Users are responsible for ensuring that copied content does **not** include patient identifiers or sensitive information.
 
 ---
 
 ## Children’s Privacy
 
-TTAP-Vanco is intended for professional educational use by adult healthcare learners and clinicians.
+PlasmaBind – Vancomycin PK Simulator is intended for **adult healthcare learners and professionals**.
 
-The application is not intended for use by individuals under 18 years of age and does not knowingly collect data from minors.
+The application is **not intended for use by individuals under 18 years of age** and does not knowingly collect data from minors.
 
 ---
 
 ## Regulatory and Clinical Use Disclaimer
 
-TTAP-Vanco is not a regulated medical device and is not intended to replace clinical judgement, therapeutic drug monitoring, institutional protocols, or professional medical advice.
+PlasmaBind – Vancomycin PK Simulator is **not a regulated medical device**.
 
-Users must validate all simulations against measured laboratory results and local clinical guidelines.
+It is not intended to replace:
+
+- Clinical judgment
+- Therapeutic drug monitoring
+- Institutional protocols
+- Professional medical advice
+
+Users must independently validate simulation outputs against measured laboratory results and local clinical guidelines before any clinical use.
 
 ---
 
 ## Changes to This Policy
 
-PlasmaBind Inc. may update this privacy policy periodically. Updates will be posted on this page with revision dates.
+PlasmaBind Inc. may update this Privacy Policy periodically.
+
+Any updates will be posted on this page with a revised “Last updated” date.
 
 ---
 
-
 ## Support & Contact
 
-If you have questions, technical issues, or feedback related to **PlasmaBind – Vancomycin PK Simulator**, please contact:
+For questions, technical issues, or feedback related to **PlasmaBind – Vancomycin PK Simulator**, please contact:
 
 **Email:** plasmabind.inc@gmail.com
 
 Support requests are reviewed on a best-effort basis.
-
